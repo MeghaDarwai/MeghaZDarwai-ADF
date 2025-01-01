@@ -1,0 +1,13 @@
+{
+	"name": "AzureDatabricks1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDatabricks",
+		"typeProperties": {
+			"domain": "https://adb-3582259322381283.3.azuredatabricks.net",
+			"authentication": "MSI",
+			"workspaceResourceId": "/subscriptions/ae5d8b5b-9199-4e6a-ab15-017a53383d3d/resourceGroups/new-reso-grp/providers/Microsoft.Databricks/workspaces/Wrkspc_Megha",
+			"existingClusterId": "0101-220549-iyjx782w"
+		}
+	}
+}
