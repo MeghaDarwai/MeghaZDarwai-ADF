@@ -1,0 +1,9 @@
+{
+	"name": "DF-Databricks-ins-mzd",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "620d1f65-d00e-4273-98f8-5350324dd01d",
+		"tenantId": "0b86f1f9-04ce-43c9-a1e5-3379490392e4"
+	}
+}
